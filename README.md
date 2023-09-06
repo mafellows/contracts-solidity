@@ -74,7 +74,4 @@ Bancor is a work in progress. Make sure you understand the risks before using it
 
 Bancor Protocol is open source and distributed under the Apache License v2.0
 
-TEST: 0002
-Executing test audit 1668657097
-
-Executing test audit 1668660156
+TEST: 0003
